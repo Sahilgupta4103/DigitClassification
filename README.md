@@ -1,6 +1,8 @@
-# DigitClassification
+# DigitClassifier
 
 Created a digit (integer number) classifer using neural network
+
+I took help from https://www.youtube.com/watch?v=qJhH2cnjD34
 
 I have used MNIST digit library to extract training and tesing data
 
